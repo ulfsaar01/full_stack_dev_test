@@ -1,0 +1,11 @@
+body {
+	margin: 0 8px;
+}
+.description {
+	white-space: pre-wrap;
+}
+.button_container {
+	display: flex;
+	justify-content: space-between;
+	margin: 30px 0;
+}
